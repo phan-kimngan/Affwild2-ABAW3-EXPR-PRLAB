@@ -8,7 +8,7 @@ Name: Kim Ngan Ngan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Huyng Kim
 
 
 ### Set up environment
-+ Create a python new_env nvironment using conda or other tools.
++ Create a python new_env environment using conda or other tools.
 
 + Instead packages in requirements.txt
 ```bash
