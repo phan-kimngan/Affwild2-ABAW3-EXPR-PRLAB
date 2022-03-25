@@ -49,6 +49,7 @@ python main.py --cfg ./conf/EXPR_baseline.yaml
 python prepare_test_data.py --root_video_dir path/to/batch-1-2-folder --dataset_dir path/to/out-data-folder
 ```
 +  Get prediction file of test set at OUT_DIR
+```bash
 python main.py --cfg --cfg /path/to/config-yaml-file
 ```
 
