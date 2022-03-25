@@ -24,7 +24,7 @@ conda activate new_env
 - Create dataset folder that contains cropped_aligned folder and 3rd_ABAW_Annotations folder
 
 - Run data_preparation.py in tools to create .npy in out data folder
-
+```bash
 python data_preparation.py --root_dir path/to/dataset-folder --out_dir path/to/out-data-folder
 ```
 - Edit .yaml file in conf with
@@ -46,14 +46,14 @@ python main.py --cfg ./conf/EXPR_baseline.yaml
 - Create testset_folder that contains EXPR_test_set_release.txt file
 
 - Run prepare_test_data.py in tools file to create EXPR_test.npy in out-data-folder
-
+```bash
 python prepare_test_data.py --root_video_dir path/to/batch_1-2-folder --dataset_dir path/to/out-data-folder
-
+```
 2.
 #- Edit config file in /path/to/config-yaml-file with TEST_ONLY:  path/to/checkpoints-ckpt-file
 
 - Get prediction file of test set at prediction folder
-
+```bash
 python main.py --cfg --cfg /path/to/config-yaml-file
-
+```
 
