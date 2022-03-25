@@ -1,5 +1,5 @@
 """
-Author: HuynhVanThong
+Author: Van-Thong Huynh, Kim Ngan Phan, Hong-Hai Nguyen
 Department of AI Convergence, Chonnam Natl. Univ.
 """
 import math
