@@ -12,4 +12,7 @@ Pass with best val_metric: 0.31997281312942505
 
 Pass with best val_metric: 0.29110342264175415
 
-+ SUB4: 
++ SUB4: tmp/EXPR/2022-03-25_21-47-49/checkpoints/epoch=13-step=8133.ckpt
+
+Pass with best val_metric: 0.30353623628616333
+
