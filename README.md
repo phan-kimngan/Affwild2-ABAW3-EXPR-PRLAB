@@ -4,7 +4,7 @@
 
 Name: Kim Ngan Ngan, Hong Hai Nguyen, Van Thong Huynh, Soo Huyng Kim
 
-**Paper: Expression Classification using Concatenation of Deep Neural Network for the 3rd ABAW3 Competition
+**Paper: Expression Classification using Concatenation of Deep Neural Network for the 3rd ABAW3 Competition**
 
 ### How to train?
 
