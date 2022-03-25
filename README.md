@@ -1,21 +1,21 @@
 
-Affwild2-ABAW3 @ CVPR 2022
-Task: EXPRESION CLASSIFICATION
+#  Affwild2-ABAW3 @ CVPR 2022
+## Task: EXPRESION CLASSIFICATION
 
 Name: Kim Ngan Ngan, Hong Hai Nguyen, Van Thong Huynh, Soo Huyng Kim
 
 Paper: Expression Classification using Concatenation of Deep Neural Network for the 3rd ABAW3 Competition
 
-How to train?
+### How to train?
 
     1. Create a python environment using conda or other tools.
-    
+    ```bash
     conda create -n new_env python=3.6
-    
+    ```
     2. Instead packages in requirements.txt
-    
+    ```bash
     pip install -r requirements.txt
-    
+    ```
     3. Activate new_env
     
     conda activate new_env
