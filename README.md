@@ -1,6 +1,6 @@
 
 #  Affwild2-ABAW3 @ CVPR 2022
-## Task: EXPRESION CLASSIFICATION
+## Task: EXPRESSION CLASSIFICATION
 
 Name: Kim Ngan Ngan, Hong Hai Nguyen, Van Thong Huynh, Soo Huyng Kim
 
