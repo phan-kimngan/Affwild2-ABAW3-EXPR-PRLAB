@@ -9,9 +9,7 @@ Name: Kim Ngan Ngan, Hong Hai Nguyen, Van Thong Huynh, Soo Huyng Kim
 
 ### Set up environment
 + Create a python environment using conda or other tools.
-```bash
-conda create -n new_env python=3.6
-```
+
 + Instead packages in requirements.txt
 ```bash
 pip install -r requirements.txt
