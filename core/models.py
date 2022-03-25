@@ -1,5 +1,5 @@
 """
-Author: HuynhVanThong
+Author: Van-Thong Huynh
 Department of AI Convergence, Chonnam Natl. Univ.
 """
 import torch.nn
