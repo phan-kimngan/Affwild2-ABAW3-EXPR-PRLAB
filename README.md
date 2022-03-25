@@ -50,6 +50,6 @@ python prepare_test_data.py --root_video_dir path/to/batch-1-2-folder --dataset_
 ```
 +  Get prediction file of test set at OUT_DIR
 ```bash
-python main.py --cfg --cfg /path/to/config-yaml-file
+python main.py --cfg /path/to/config-yaml-file
 ```
 
