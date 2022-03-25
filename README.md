@@ -27,7 +27,7 @@ python data_preparation.py --root_dir path/to/dataset-folder --out_dir path/to/o
 ```
 +  Edit .yaml file in **conf** with
 
-    OUT_DIR: path to save tmp file
+    OUT_DIR: path to save tmp file that contains .ckpt and .yaml
 
     DATA_DIR: path to .npy file in out-data-folder
 
