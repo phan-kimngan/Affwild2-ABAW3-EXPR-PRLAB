@@ -188,11 +188,3 @@ if __name__ == '__main__':
 
         trainer.test(dataloaders=abaw3_dataset.val_dataloader(), ckpt_path='best')
         trainer.predict(dataloaders=abaw3_dataset.test_dataloader(), ckpt_path='best')
-
-
-
-
-
-
-    checkpoint_path="/media/phankimngan/DATA/Projects/Affwild2-ABAW3/tmp/EXPR/2022-03-22_04-38-36/checkpoints/epoch=20-step=12200.ckpt"
-
