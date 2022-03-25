@@ -8,13 +8,13 @@ Name: Kim Ngan Ngan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Huyng Kim
 
 
 ### Set up environment
-+ Create a python environment using conda or other tools.
++ Create a python new_env nvironment using conda or other tools.
 
 + Instead packages in requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-+ Activate new_env
++ Activate new_env environment
 ```bash
 conda activate new_env
 ```
