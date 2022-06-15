@@ -5,7 +5,7 @@
 Name: Kim Ngan Ngan, Hong-Hai Nguyen, Van-Thong Huynh, Soo-Hyung Kim
 
 **Paper: Expression Classification using Concatenation of Deep Neural Network for the 3rd ABAW3 Competition**
-
+$5^{th}$ place at https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/
 
 ### Set up environment
 + Create a python new_env environment using conda or other tools.
